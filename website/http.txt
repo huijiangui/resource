@@ -1,15 +1,16 @@
-https://rrkee.com/hosts/ 浏览器相关
-https://msdn.itellyou.cn/ 可以下载系统的
+
+信息获取类
 http://search.chongbuluo.com/ 搜索网站记录
 https://www.csdn.net/ CSDN
 github 代码
 https://www.zhihu.com/ 知乎，问答论坛
+http://www.runoob.com 码农学习地方 菜鸟教程
 
 
 
 
-
-
+大佬博客
+http://blog.vavr.io/i-believe-in-java-modules/
 
 
 
@@ -17,3 +18,13 @@ https://www.zhihu.com/ 知乎，问答论坛
 软件工具类
 http://staruml.io/ UML建模工具(staruml)
 https://www.xmind.net/ 思维导图软件(xmind)
+https://rrkee.com/hosts/ 浏览器相关
+https://msdn.itellyou.cn/ 可以下载系统的
+http://www.poweriso.com PowerISO(虚拟光驱) iso文件打开工具(系统安装文件)
+http://www.theonionrouter.com tor
+
+
+其他类
+http://donghua.dmzj.com/ 动漫
+http://www.dilidili.wang/ D站
+
